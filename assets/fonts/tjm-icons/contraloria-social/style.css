@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'contraloria';
+  src:  url('fonts/contraloria.eot?m0mv35');
+  src:  url('fonts/contraloria.eot?m0mv35#iefix') format('embedded-opentype'),
+    url('fonts/contraloria.ttf?m0mv35') format('truetype'),
+    url('fonts/contraloria.woff?m0mv35') format('woff'),
+    url('fonts/contraloria.svg?m0mv35#contraloria') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="contraloria-social-"], [class*=" contraloria-social-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'contraloria' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.contraloria-social-trimestre:before {
+  content: "\e90e";
+}
+.contraloria-social-month:before {
+  content: "\e90c";
+}
+.contraloria-social-secretaria-de-la-funcion-publica:before {
+  content: "\e90f";
+}
+.contraloria-social-capacitaciones-presentaciones:before {
+  content: "\e909";
+}
+.contraloria-social-capacitaciones-capacitacion-a-servidores-publicos:before {
+  content: "\e90a";
+}
+.contraloria-social-picture:before {
+  content: "\e912";
+}
+.contraloria-social-year:before {
+  content: "\e90d";
+}
+.contraloria-social-direccion:before {
+  content: "\e908";
+}
+.contraloria-social-excel:before {
+  content: "\e905";
+}
+.contraloria-social-word:before {
+  content: "\e906";
+}
+.contraloria-social-pdf:before {
+  content: "\e907";
+}
+.contraloria-social-ubica-tu-obra:before {
+  content: "\e904";
+}
+.contraloria-social-convocatorias:before {
+  content: "\e903";
+}
+.contraloria-social-servicios-realizados:before {
+  content: "\e910";
+}
+.contraloria-social-servicios-proceso:before {
+  content: "\e911";
+}
+.contraloria-social-capacitaciones-capacitacion-a-contralores-sociales:before {
+  content: "\e90b";
+}
+.contraloria-social-actividades-realizadas:before {
+  content: "\e900";
+}
+.contraloria-social-capacitaciones:before {
+  content: "\e901";
+}
+.contraloria-social-formatos-de-contraloria-social:before {
+  content: "\e902";
+}

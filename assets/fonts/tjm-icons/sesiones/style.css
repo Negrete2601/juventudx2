@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'tjm-sesiones';
+  src:  url('fonts/tjm-sesiones.eot?q3old4');
+  src:  url('fonts/tjm-sesiones.eot?q3old4#iefix') format('embedded-opentype'),
+    url('fonts/tjm-sesiones.ttf?q3old4') format('truetype'),
+    url('fonts/tjm-sesiones.woff?q3old4') format('woff'),
+    url('fonts/tjm-sesiones.svg?q3old4#tjm-sesiones') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="sesiones-"], [class*=" sesiones-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tjm-sesiones' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sesiones-extraordinarias:before {
+  content: "\e91d";
+}
+.sesiones-year:before {
+  content: "\e91e";
+}
+.sesiones-month:before {
+  content: "\e91f";
+}
+.sesiones-ordinarias:before {
+  content: "\e922";
+}
+.sesiones-comite-de-adquisiciones:before {
+  content: "\e93a";
+}
+.sesiones-coplademun:before {
+  content: "\e96d";
+}
+.sesiones-comision-de-profesionalizacion:before {
+  content: "\e976";
+}
+.sesiones-consejo-de-honor-y-justicia:before {
+  content: "\e9a8";
+}
+.sesiones-pdf:before {
+  content: "\eadf";
+}
+.sesiones-word:before {
+  content: "\eae1";
+}
+.sesiones-excel:before {
+  content: "\eae2";
+}
+.sesiones-comision-de-transparencia:before {
+  content: "\e902";
+}
+.sesiones-sesiones-de-cabildo:before {
+  content: "\e917";
+}
+.sesiones-comite-de-transparencia:before {
+  content: "\e903";
+}

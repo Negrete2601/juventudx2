@@ -1,0 +1,240 @@
+@font-face {
+  font-family: 'Obligaciones';
+  src:  url('fonts/Obligaciones.eot?hta0in');
+  src:  url('fonts/Obligaciones.eot?hta0in#iefix') format('embedded-opentype'),
+    url('fonts/Obligaciones.ttf?hta0in') format('truetype'),
+    url('fonts/Obligaciones.woff?hta0in') format('woff'),
+    url('fonts/Obligaciones.svg?hta0in#Obligaciones') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="obligaciones-"], [class*=" obligaciones-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Obligaciones' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.obligaciones-x-file:before {
+  content: "\e917";
+}
+.obligaciones-excel:before {
+  content: "\e911";
+}
+.obligaciones-word:before {
+  content: "\e912";
+}
+.obligaciones-pdf:before {
+  content: "\e913";
+}
+.obligaciones-video:before {
+  content: "\e914";
+}
+.obligaciones-music:before {
+  content: "\e915";
+}
+.obligaciones-picture:before {
+  content: "\e916";
+}
+.obligaciones-55-XLVIII:before {
+  content: "\e903";
+}
+.obligaciones-56-II-A:before {
+  content: "\e90d";
+}
+.obligaciones-55-XXIII:before {
+  content: "\e90f";
+}
+.obligaciones-55-XLII:before {
+  content: "\e91f";
+}
+.obligaciones-55-I:before {
+  content: "\e920";
+}
+.obligaciones-55-XVII:before {
+  content: "\e923";
+}
+.obligaciones-55-XXVII:before {
+  content: "\e925";
+}
+.obligaciones-55-XXIX:before {
+  content: "\e926";
+}
+.obligaciones-55-XXXII:before {
+  content: "\e92f";
+}
+.obligaciones-55-X:before {
+  content: "\e930";
+}
+.obligaciones-55-XXI:before {
+  content: "\e93b";
+}
+.obligaciones-55-XXII:before {
+  content: "\e93f";
+}
+.obligaciones-55-VII:before {
+  content: "\e944";
+}
+.obligaciones-55-XIII:before {
+  content: "\e94b";
+}
+.obligaciones-calendar:before {
+  content: "\e953";
+}
+.obligaciones-55-XLV:before {
+  content: "\e95c";
+}
+.obligaciones-55-XLI:before {
+  content: "\e95d";
+}
+.obligaciones-55-XXXIX:before {
+  content: "\e95e";
+}
+.obligaciones-55-XLVI:before {
+  content: "\e95f";
+}
+.obligaciones-55-XLIX:before {
+  content: "\e962";
+}
+.obligaciones-55-XL:before {
+  content: "\e964";
+}
+.obligaciones-55-XII:before {
+  content: "\e96c";
+}
+.obligaciones-56-I-e:before {
+  content: "\e971";
+}
+.obligaciones-55-XV:before {
+  content: "\e972";
+}
+.obligaciones-55-XXVI:before {
+  content: "\e975";
+}
+.obligaciones-55-XI:before {
+  content: "\e976";
+}
+.obligaciones-55-XXIV:before {
+  content: "\e986";
+}
+.obligaciones-55-XXV:before {
+  content: "\e987";
+}
+.obligaciones-55-XVI:before {
+  content: "\e994";
+}
+.obligaciones-55-XXXVII:before {
+  content: "\e995";
+}
+.obligaciones-55-XXX:before {
+  content: "\e99a";
+}
+.obligaciones-55-XXXI:before {
+  content: "\e99b";
+}
+.obligaciones-55-V:before {
+  content: "\e99c";
+}
+.obligaciones-55-XVIII:before {
+  content: "\e9a8";
+}
+.obligaciones-55-IX:before {
+  content: "\e9ae";
+}
+.obligaciones-55-XXXVIII:before {
+  content: "\e9b2";
+}
+.obligaciones-55-XX:before {
+  content: "\e9b9";
+}
+.obligaciones-55-III:before {
+  content: "\e9ba";
+}
+.obligaciones-55-XIX:before {
+  content: "\e9bb";
+}
+.obligaciones-55-II:before {
+  content: "\e9bc";
+}
+.obligaciones-55-XXXIV:before {
+  content: "\e9bd";
+}
+.obligaciones-55-IV:before {
+  content: "\e9cc";
+}
+.obligaciones-55-XLVII:before {
+  content: "\e9cd";
+}
+.obligaciones-56-I-g:before {
+  content: "\e9d2";
+}
+.obligaciones-55-XXXIII:before {
+  content: "\e9d3";
+}
+.obligaciones-55-XXXV:before {
+  content: "\ea04";
+}
+.obligaciones-55-Ultimo:before {
+  content: "\ea0c";
+}
+.obligaciones-55-XXXVI:before {
+  content: "\ea10";
+}
+.obligaciones-55-XLIII:before {
+  content: "\ea13";
+}
+.obligaciones-55-XLIV:before {
+  content: "\ea14";
+}
+.obligaciones-56-I-f:before {
+  content: "\e905";
+}
+.obligaciones-folder:before {
+  content: "\e90e";
+}
+.obligaciones-56-I-c:before {
+  content: "\e906";
+}
+.obligaciones-56-I-d:before {
+  content: "\e907";
+}
+.obligaciones-56-I:before {
+  content: "\e908";
+}
+.obligaciones-55:before {
+  content: "\e909";
+}
+.obligaciones-56:before {
+  content: "\e90a";
+}
+.obligaciones-56-II:before {
+  content: "\e90b";
+}
+.obligaciones-8:before {
+  content: "\e900";
+}
+.obligaciones-56-II-B:before {
+  content: "\e904";
+}
+.obligaciones-hashtag:before {
+  content: "\e910";
+}
+.obligaciones-56-I-b:before {
+  content: "\e90c";
+}
+.obligaciones-28:before {
+  content: "\e901";
+}
+.obligaciones-6:before {
+  content: "\e902";
+}

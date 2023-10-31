@@ -1,0 +1,80 @@
+
+.contenedor_flex{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.elemento_flex{
+	display: flex;
+	margin: 10px;
+	width: 265px;
+	height: 120px;
+	cursor: pointer;
+	box-shadow: 0px 0px 0px grey;
+	transition: box-shadow .5s;
+}
+
+.archivo_flex{
+	display: flex; 
+	width: 175px; 
+	flex-direction: column; 
+	background-color: white; 
+	border-radius: 4px;
+	padding: 5px 5px 5px 5px;
+}
+
+.archivo_flex:hover{
+	background-color: #f0f1f0;
+}
+
+.archivo_flex:hover #span {
+	background-color: #f0f1f0;
+}
+
+.elemento_flex:hover{
+	box-shadow: 3px 5px 4px 2px grey;
+}
+
+.elemento_1{
+	width: 33%; 
+	text-align: center;
+	font-size: 3em;
+	background-color: #a3a3a3;
+	line-height: 120px;
+	background-image: url('esvastica/tjm.png') !important;
+}
+
+.elemento_1 > span{
+}
+
+.elemento_2{
+	width: 67%;
+	height: 120px;
+	line-height: 120px;
+	background-color: #f0f1f0;
+}
+
+.elemento_2 > span{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+	font-size: 1.2em;
+	text-align: center;
+	padding: 0px 5px 0px 5px;
+	width: 100%;
+}
+
+.esvastica{
+	background-image: url('esvastica/tjm.png') !important;
+}
+
+@media only screen and (max-width: 409px){
+	.archivo_flex{
+		width: 125px !important;
+	}
+}
+
+.bred_border{
+	border: 1px solid #bce8f1;
+}
